@@ -1,3 +1,8 @@
+/*
+Q2) Write a program to read user input until user writes XDONE and then show the entered text by the user on commandline
+*/
+
+
 package Java_practice;
 
 import java.util.Scanner;
