@@ -1,3 +1,8 @@
+/*
+Q1) Write a class with FirstName, LastName & age field. Print Firstname, LastName & age using static block, static method & static variable respectively.
+*/
+
+
 package Java_practice;
 
 public class info {
